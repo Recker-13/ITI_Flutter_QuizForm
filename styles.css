@@ -1,0 +1,83 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle, #6a1b9a, #4a148c); /* Radial gradient background with purple colors */
+    color: #fff; /* Ensure text color contrasts with the background */
+    margin: 0;
+    padding: 0;
+}
+
+#search-bar {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#search-button {
+    padding: 10px;
+    background-color: teal;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#users-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.user-card {
+    width: 200px;
+    border: 3px solid #ccc;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #fff;
+    position: relative;
+    border-color: rgb(32, 183, 183);
+    color: #333; /* Ensure text inside the card is visible */
+}
+
+.profile-pic {
+    width: 50px;
+    height: 50px;
+    background-color: #ddd;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.verified-icon {
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.verified-icon.green {
+    background-color: green;
+}
+
+.verified-icon.red {
+    background-color: red;
+}
+
+
+
+#reset-button {
+    padding: 10px;
+    background-color: grey;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}

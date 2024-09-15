@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "age": 50,
+        "email": "atuny0@sohu.com",
+        "phone": "+63 791 675 8914",
+        "username": "atuny0",
+        "password": "9uQFF1Lh",
+        "birthDate": "2000-12-25",
+        "image": "https://robohash.org/hicveldicta.png",
+        "is_verified": true,
+        "gender": "male"
+    },
+    {
+        "id": 2,
+        "age": 28,
+        "email": "hbingley1@plala.or.jp",
+        "phone": "+7 813 117 7139",
+        "username": "hbingley1",
+        "password": "CQutx25i8r",
+        "birthDate": "2003-08-02",
+        "image": "https://robohash.org/doloremquesintcorrupti.png",
+        "is_verified": false,
+        "gender": "female"
+    },
+    {
+        "id": 3,
+        "age": 38,
+        "email": "rshawe2@51.la",
+        "phone": "+63 739 292 7942",
+        "username": "rshawe2",
+        "password": "OWsTbMUgFc",
+        "birthDate": "1992-12-30",
+        "image": "https://robohash.org/consequunturautconsequatur.png",
+        "is_verified": false,
+        "gender": "male"
+    },
+    {
+        "id": 4,
+        "age": 49,
+        "email": "yraigatt3@nature.com",
+        "phone": "+86 461 145 4186",
+        "username": "yraigatt3",
+        "password": "sRQxjPfdS",
+        "birthDate": "1969-01-16",
+        "image": "https://robohash.org/facilisdignissimosdolore.png",
+        "is_verified": true,
+        "gender": "female"
+    }
+]

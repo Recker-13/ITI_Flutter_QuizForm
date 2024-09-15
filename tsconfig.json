@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES6", // or ES2015, this ensures async/await works
+        "lib": ["ES2015", "DOM"], // includes ES2015 (Promise) and DOM types
+        "module": "commonjs", // or your preferred module system
+        "strict": true,
+        "outDir": "./dist"
+    },
+    "include": ["./*.ts"], // Include all TypeScript files in the root
+    "exclude": ["./dist"]
+}
